@@ -11,3 +11,6 @@
 5. workspace_muzhi.m 、workspace_shizhi.m 用于单独绘制拇指和食指工作空间，其绘制结果保存在muzhi_workspace_finalfig 和 shizhi_workspace_final.fig 中
 
 6.workspace_muzhi_shizhi.m 用于同时绘制拇指和食指的工作空间，以查看其交界处，其绘制结果保存在 muzhi_shizhi_workspace_final.fig 中
+
+
+大作业在master分支中
